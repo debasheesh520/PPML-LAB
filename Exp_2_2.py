@@ -1,0 +1,5 @@
+tuple=(1,2,3,4,5)
+maximum=max(tuple)
+minimum=min(tuple)
+print("Maximun element is:",maximum)
+print("Minimum element is:",minimum)
